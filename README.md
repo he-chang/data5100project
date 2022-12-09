@@ -1,4 +1,4 @@
-# Impact of Student and Staff Diversity on Student 6-year graduation rates 
+# Impact of Student and Staff Diversity on Student 6-year Graduation Rates 
 Contributors: David Abney, Hrishikesh Deepak Dhole, Chang He, Michael Palacioz
 
 ## Problem Statement
